@@ -1,0 +1,6 @@
+@TinaKingConsultingWebAPI_HostAddress = http://localhost:5226
+
+GET {{TinaKingConsultingWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
